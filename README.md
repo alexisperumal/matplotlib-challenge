@@ -35,11 +35,11 @@ These compounds may merit further evaluation in the event that Ramicane and Capo
 
 Key Files:
 
-• README-assignment.md - The Assignment
+• README-assignment.md - The Assignment, https://github.com/alexisperumal/matplotlib-challenge/blob/master/README-assignment.md
 
-• Pymaceuticals/2019-12-10_pymaceuticals-Alexis.ipynb - Python notebook for the project (jupyter notebook file)
+• Pymaceuticals/2019-12-10_pymaceuticals-Alexis.ipynb - Python notebook for the project (jupyter notebook file), https://github.com/alexisperumal/matplotlib-challenge/blob/master/Pymaceuticals/2019-12-10_pymaceuticals-Alexis.ipynb
 
-• 2019-12-15_Pymaceuticals-Analysis.docx - Analysis report (MS Word file)
+• 2019-12-15_Pymaceuticals-Analysis.docx - Analysis report (MS Word file), https://github.com/alexisperumal/matplotlib-challenge/blob/master/2019-12-15_Pymaceuticals-Analysis.docx
 
-• 2019-12-15_Pymaceuticals-Analysis.pdf  - Analysis report (PDF file)
+• 2019-12-15_Pymaceuticals-Analysis.pdf  - Analysis report (PDF file), https://github.com/alexisperumal/matplotlib-challenge/blob/master/2019-12-15_Pymaceuticals-Analysis.pdf
 
